@@ -1,2 +1,2 @@
-# Chat
-Chat using React, Firebase and Facebook login.
+# Chatrooms
+A webapp using ChatEngin,Firebase and Facebook login in React.
